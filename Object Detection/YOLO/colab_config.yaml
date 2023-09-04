@@ -1,0 +1,7 @@
+path: '/content/gdrive2/MyDrive/Colab Notebooks/Lesson/Full Object Detection/dataset'
+train: train/images
+val: train/images
+
+# Classes
+names:
+  0: alpaca

@@ -1,0 +1,7 @@
+path: C:/Users/HP G7/Desktop/IMPORTANT/KuliahNew/Side Quest/Latihan Program/Personal/Personal Project/DSProjects/CV/Object Detection/dataset
+train: train/images
+val: train/images
+
+# Classes
+names:
+  0: alpaca
